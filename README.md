@@ -1,12 +1,13 @@
-# Krutika Anaganti — Portfolio
+# Krutika Anaganti - Portfolio
+Live site: https://portfolio-six-rosy-84.vercel.app/ 
 
-Personal portfolio website for **Krutika Anaganti**, a Computer Science senior at Arizona State University.
+Welcome to my personal portfolio! You can find everything about me here, and if you don't send me an email, would love to connect and chat!
 
 I am interested in **Machine Learning**, **AI Engineering**, **Full-Stack Development**, and **Intelligent Systems**, and I am actively seeking internship and new grad opportunities in these areas.
 
 ## About This Site
 
-This repository hosts my personal portfolio — a single-page site where recruiters and hiring managers can explore my background, skills, projects, education, and contact information.
+This repository hosts my personal portfolio, a single-page site where recruiters and hiring managers can explore my background, skills, projects, education, and contact information.
 
 **Sections include:**
 
