@@ -1,109 +1,33 @@
 # Krutika Anaganti — Portfolio
 
-A modern, premium personal portfolio website built for Machine Learning Engineer, AI Engineer, Data Scientist, and Software Engineer internship and new grad applications.
+Personal portfolio website for **Krutika Anaganti**, a Computer Science senior at Arizona State University.
 
-## Tech Stack
+I am interested in **Machine Learning**, **AI Engineering**, **Full-Stack Development**, and **Intelligent Systems**, and I am actively seeking internship and new grad opportunities in these areas.
 
-- **Next.js 15** (App Router)
-- **TypeScript**
-- **Tailwind CSS**
-- **Framer Motion**
-- **Lucide React Icons**
+## About This Site
 
-## Features
+This repository hosts my personal portfolio — a single-page site where recruiters and hiring managers can explore my background, skills, projects, education, and contact information.
 
-- Dark mode first design with glassmorphism cards and gradient accents
-- Sticky navigation with active section highlighting on scroll
-- Premium entrance and scroll-triggered animations
-- Interactive neural network / particle hero visual
-- Featured projects, skills, education timeline
-- Dynamic GitHub stats and contribution graph
-- SEO and Open Graph metadata
-- Fully responsive, mobile-first layout
-- Accessibility best practices
+**Sections include:**
 
-## Getting Started
+- About Me
+- Technical Skills (ML/AI, full-stack, databases, and developer tools)
+- Featured Projects (machine learning, AI automation, NLP, full-stack, and more)
+- Education
+- Contact & Resumes
 
-### Prerequisites
+## Built With
 
-- Node.js 18.17 or later
-- npm, yarn, or pnpm
+Next.js · TypeScript · Tailwind CSS · Framer Motion
 
-### Installation
+## Connect
 
-```bash
-cd krutika-portfolio
-npm install
-```
+- **Email:** krutika1126@gmail.com
+- **LinkedIn:** [linkedin.com/in/krutika-anaganti-961102335](https://www.linkedin.com/in/krutika-anaganti-961102335/)
+- **GitHub:** [github.com/kanagant](https://github.com/kanagant)
+- **Resume (ML):** [View Resume](https://drive.google.com/file/d/1pDWW2z4D4y2tI37R-hZPQWhSiZT4vFif/view?usp=sharing)
+- **Resume (Backend):** [View Resume](https://drive.google.com/file/d/1Vzs9RFBYYqMV-5h8qPaXF6BA9TPNP_CV/view?usp=sharing)
 
-### Development
+---
 
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-### Production Build
-
-```bash
-npm run build
-npm start
-```
-
-## Project Structure
-
-```
-src/
-├── app/
-│   ├── layout.tsx      # Root layout, fonts, metadata
-│   ├── page.tsx        # Main page composing all sections
-│   ├── globals.css     # Global styles and utilities
-│   └── loading.tsx     # Route loading state
-├── components/
-│   ├── layout/         # Navbar, Footer, LoadingScreen
-│   ├── sections/       # Hero, About, Skills, Projects, etc.
-│   └── ui/             # Reusable UI components
-├── data/
-│   └── portfolio.ts    # Centralized content configuration
-├── hooks/
-│   └── useActiveSection.ts
-├── lib/
-│   └── utils.ts
-└── types/
-    └── index.ts
-```
-
-## Customization
-
-Edit `src/data/portfolio.ts` to update:
-
-- Personal information and social links
-- Skills categories
-- Project details and GitHub URLs
-- Education and coursework
-
-Update `SITE_CONFIG.url` in `portfolio.ts` with your deployed Vercel URL for correct Open Graph links.
-
-## Deploy on Vercel
-
-1. Push this project to a GitHub repository.
-2. Sign in to [Vercel](https://vercel.com) and click **Add New Project**.
-3. Import your repository.
-4. Vercel auto-detects Next.js — no extra configuration needed.
-5. Click **Deploy**.
-
-Alternatively, use the Vercel CLI:
-
-```bash
-npm i -g vercel
-vercel
-```
-
-## Environment Variables
-
-No environment variables are required for the default setup. GitHub stats load from public APIs using the username in `SITE_CONFIG.githubUsername`.
-
-## License
-
-Personal portfolio — all rights reserved © 2026 Krutika Anaganti
+© 2026 Krutika Anaganti
